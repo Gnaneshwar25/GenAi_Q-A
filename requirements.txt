@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+python-docx
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+pypdf
+faiss-cpu
